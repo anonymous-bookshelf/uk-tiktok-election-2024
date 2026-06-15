@@ -1,0 +1,11 @@
+requests
+python-dotenv
+pandas
+numpy
+matplotlib
+scipy
+playwright
+browser-cookie3
+beautifulsoup4
+openai
+tqdm

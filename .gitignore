@@ -1,0 +1,28 @@
+# Credentials
+.env
+
+# Large collected data (not distributed — see Data Availability note in README)
+data/raw/
+data/combined/
+data/enriched/
+data/music_lookup/
+data/trendiness/
+data/classified/
+data/archive/
+data/supplementary/hashtag_frequency.csv
+data/supplementary/videos_with_transcripts.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
